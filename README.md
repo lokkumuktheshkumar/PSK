@@ -145,5 +145,4 @@ QPSK
 <img width="1529" height="944" alt="image" src="https://github.com/user-attachments/assets/95ffaff0-bd3a-4e8a-a693-d30416bad164" />
 
 # Results
-Thus the modulation and demodulation of PSK and QPSK is verified
-# Hardware experiment output waveform.
+Thus the modulation and demodulation of PSK and QPSK is verified.
